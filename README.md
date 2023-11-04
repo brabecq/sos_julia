@@ -9,3 +9,5 @@ To create the environment, run in the folder in a terminal:
 chmod u+x ./create_sos_env.sh
 ./create_sos_env.sh -n <env_name>
 ```
+
+Note that the SoS project only runs on linux and mac.
